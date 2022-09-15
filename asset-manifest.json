@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Buy-ticket-online/static/css/main.2ee5fdac.css",
+    "main.js": "/Buy-ticket-online/static/js/main.12a7cbc4.js",
+    "static/media/bg.jpg": "/Buy-ticket-online/static/media/bg.58905d546683f49f3b88.jpg",
+    "index.html": "/Buy-ticket-online/index.html",
+    "main.2ee5fdac.css.map": "/Buy-ticket-online/static/css/main.2ee5fdac.css.map",
+    "main.12a7cbc4.js.map": "/Buy-ticket-online/static/js/main.12a7cbc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee5fdac.css",
+    "static/js/main.12a7cbc4.js"
+  ]
+}
